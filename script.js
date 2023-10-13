@@ -33,4 +33,4 @@ logIn.addEventListener("mouseover", function(){
 setTimeout(function(){
     form.style.display = "none";
     heading.style.display = "inline-block";
-}, 20000);
+}, 40000);
